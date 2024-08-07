@@ -18,12 +18,20 @@ Now to run the project you must execute the command:
 npm start
 ```
 
-## Test
+### Tests
 
-To run the tests you can run the command:
+To run the tests of all the components you can use the command:
 
 ```
 npm run test
 ```
 
-With ❤️ [Jordan Jaramillo](https://jordanjaramillo.co)
+### Coverage
+
+To see the coverage that we have in this application you can execute the command:
+
+```
+npm run coverage
+```
+
+This project was created by [Geampiere Jaramillo](https://geampiere.vercel.app) with ❤️.
